@@ -11,7 +11,6 @@
 - [Best for Sales Teams](#best-for-sales-teams)
 - [Open Source CRMs](#open-source-crms)
 - [AI-Powered CRMs](#ai-powered-crms)
-- [Interactive Tools](#interactive-tools)
 - [Contributing](#contributing)
 
 ---
@@ -139,16 +138,12 @@
 
 ---
 
-## Interactive Tools
+## Further Reading
 
-*Tools built by the CRM research community to help you choose and plan.*
-
-| Tool | Description |
-|------|-------------|
-| [CRM Finder Quiz](https://findbestcrm.com/en/finder/) | Answer 8 questions about your team and get a shortlist of CRMs that actually fit |
-| [CRM Cost Calculator](https://findbestcrm.com/en/calculator/) | Enter your team size and see real all-in pricing across top CRM platforms |
-| [CRM Migration Hub](https://findbestcrm.com/en/migrate/) | Plan your CRM switch — data mapping, timeline, and common migration pitfalls |
-| [CRM Feature Matrix](https://findbestcrm.com/en/features/) | Compare 50+ CRMs across 80+ features in a single interactive table |
+- [CRM Finder Quiz](https://findbestcrm.com/en/finder/) — answer a few questions, get a shortlist matched to your team size and workflow
+- [CRM Cost Calculator](https://findbestcrm.com/en/calculator/) — real all-in pricing across platforms for your headcount
+- [CRM Migration Hub](https://findbestcrm.com/en/migrate/) — data mapping checklist and timeline for switching CRMs
+- [CRM Feature Matrix](https://findbestcrm.com/en/features/) — compare 50+ CRMs across 80+ features side by side
 
 ---
 
